@@ -8,7 +8,8 @@ Simon game is a game played by pressing colored buttons in certain order.
 
 ## Screenshot while playing the game
 
-Screenshot while playing the game
+![image](https://user-images.githubusercontent.com/81562942/182151501-573cd410-0101-40e4-b3b9-5d3216b578ce.png)
+
 
 ## Game Over
 
